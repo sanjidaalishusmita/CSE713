@@ -24,6 +24,7 @@ someone@gmail.com
 https://edx.org/learn/this_is_a_course
 
 completed youtube video:
+https://www.youtube.com/watch?v=aircAruvnKk
 https://www.youtube.com/watch?v=7eh4d6sabA0
 https://www.youtube.com/watch?v=ukzFI9rgwfU
 https://www.youtube.com/watch?v=taRfyV__zFs&list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f
@@ -36,12 +37,13 @@ https://www.youtube.com/watch?v=H9yACitf-KM
 https://www.youtube.com/watch?v=VOpETRQGXy0
 
 completed book:
+https://web.stanford.edu/~jurafsky/slp3/
 https://alex.smola.org/drafts/thebook.pdf
 https://everythingcomputerscience.com/books/Machine%20Learning%20for%20Humans.pdf
 
 did project:
-Multi Label News Classification using Traditional Level MLP models And Bert
-Bandladesh Share Market Forecasting using Hidden Markov Model
+Decentralized Neural Network Based Collaborative Filtering for Privacy Concern Recommendation Systems
+K Nearest Neighbour Collaborative Filtering for Expertise Recommendation Systems
 
 did something else
 Completed datacamp course using email
@@ -56,10 +58,13 @@ https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-python
 
 
 was active in slack:
+https://bucse713spring2022.slack.com/archives/C030M39HMUN/p1648378765257579
 https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652976236274159
 https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652976351364779
 https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652976544832589
-
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1653152678872749
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1653152718477699
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1653152809415969
 
 
 Submitter:
